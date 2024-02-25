@@ -11,6 +11,8 @@
     <br>
     Due to constant Discord terminations I will not be making a new support server. For urgent contact: <a href="https://t.me/forrrrrrrrr">Telegram</a>
 </div>
+https://img.shields.io/github/commits-since/Azuu1/Angel-Discord/latest/:branch
+
 
 
 
