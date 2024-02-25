@@ -1,4 +1,15 @@
 # Angel-1.4-Beta
+
+
+
+
+<p align="center">
+  <img src="https://github.com/Azuuu1/Angel-Discord/assets/136928945/50900030-cd92-45ca-9300-56b0104c4626" alt="U2Dt" />
+</p>
+
+
+
+
 <div align="center">
     <img src="https://img.shields.io/github/languages/top/Azuuu1/Angel-Discord?color=%23000000">
     <img src="https://img.shields.io/github/stars/Azuuu1/Angel-Discord?color=%23000000&logoColor=%23000000">
