@@ -34,5 +34,12 @@ if something doesnt work exc use issues or dm me on discord imjustazuu
 
 
 
-<a href="https://github.com/Azuuu1/Angel-Discord/releases/tag/%23new">Latest Version To Dowload</a>                                        
+<a href="https://github.com/Azuuu1/Angel-Discord/releases/tag/%23new">Latest Version To Dowload</a>
+
+
+THINGS TO DO
+1- Make The Spam Faster Using Threadning
+2-Make more options
+3-make it look better
+4-idk
 
